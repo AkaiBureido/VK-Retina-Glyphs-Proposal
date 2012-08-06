@@ -1,0 +1,2 @@
+VK-Retina-Glyphs-Proposal
+=========================
