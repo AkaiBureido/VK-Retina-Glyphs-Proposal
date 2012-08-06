@@ -16,4 +16,4 @@ It should work plug and play, just add it to your resources, no code needed, I f
 
 ###Glyph Source:
 
-<Glyphish.com>
+<http://Glyphish.com>
